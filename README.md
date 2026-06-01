@@ -1,22 +1,36 @@
 # Mateus Bezerra
 
-**Desenvolvedor em formação focado em sistemas web, automações e produtos digitais reais.**
+**Desenvolvedor focado em sistemas web, automações e produtos digitais para operações reais.**
 
-Construo projetos práticos com front-end, back-end, automação, dashboards e ferramentas para negócios. Meu objetivo é transformar problemas operacionais em sistemas simples, rápidos e bem documentados.
+Construo interfaces, APIs, dashboards e ferramentas que resolvem problemas práticos: vendas, delivery, cardápio digital, CRM, automação e gestão operacional.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-mateusbezerra.xyz-111111?style=for-the-badge)](https://www.mateusbezerra.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-mbthenewera-24292f?style=for-the-badge&logo=github)](https://github.com/mbthenewera)
 
 ---
 
 ## Foco atual
 
-- Interfaces web responsivas com HTML, CSS, JavaScript e React
+- Front-end responsivo com HTML, CSS, JavaScript e React
 - Back-end com Node.js, APIs REST, autenticação e banco de dados
-- Automações com Python para arquivos, relatórios e rotinas repetitivas
 - Dashboards operacionais para vendas, delivery, cardápio digital e gestão
-- Boas práticas de GitHub: README completo, deploy, screenshots, issues e CI/CD
+- Automações com Python para arquivos, relatórios e rotinas repetitivas
+- Boas práticas: README completo, deploy, screenshots, issues, testes e CI/CD
 
 ---
 
-## Projetos em destaque
+## Projetos curriculares publicados
+
+| Projeto | Tipo | Por que importa para currículo |
+|---|---|---|
+| [Cardápio Digital SaaS](./projects/cardapio-digital-saas) | Fullstack / produto | Mostra domínio de produto real: admin, catálogo, categorias, status e API |
+| [Delivery Ops Dashboard](./projects/delivery-ops-dashboard) | Front-end / operações | Dashboard com métricas, SLA, atraso, entregadores e visão de negócio |
+| [Vehicle Leads CRM](./projects/vehicle-leads-crm) | Front-end / CRM | Pipeline comercial, leads, prioridade e anúncios para loja de veículos |
+| [Finance Ledger API](./projects/finance-ledger-api) | Back-end / API REST | API com organização de domínio, validação, registros financeiros e documentação |
+
+---
+
+## Projetos anteriores
 
 | Projeto | Tipo | O que demonstra |
 |---|---|---|
@@ -25,8 +39,6 @@ Construo projetos práticos com front-end, back-end, automação, dashboards e f
 | **Ferramentas de Desenvolvimento** | Python CLI | Hash, árvore de projeto e estatísticas por extensão |
 | **Gerenciador de Aplicações** | C# / Windows Forms | Processos, interface desktop e interação com sistema operacional |
 | **Sistema de Análise** | C++ | Leitura de CSV e cálculo de médias móveis |
-
-> Próxima meta: transformar os melhores projetos em produtos com deploy, testes automatizados, documentação bilíngue e screenshots reais.
 
 ---
 
@@ -49,7 +61,7 @@ Cada repositório bom precisa ter:
 
 - problema resolvido em até 3 linhas
 - link de deploy quando for web
-- screenshots ou GIF curto
+- screenshots ou prévia visual
 - stack usada
 - features principais
 - decisões técnicas
@@ -65,7 +77,7 @@ O plano completo para transformar este GitHub em portfólio competitivo está aq
 
 ## Contato
 
-- GitHub: **@mbthenewera**
+- GitHub: **[@mbthenewera](https://github.com/mbthenewera)**
+- Portfólio: **[mateusbezerra.xyz](https://www.mateusbezerra.xyz)**
 - LinkedIn: adicionar link aqui
-- Portfólio: adicionar link aqui
 - E-mail: adicionar e-mail profissional aqui
