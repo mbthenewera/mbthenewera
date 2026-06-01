@@ -2,7 +2,7 @@
 
 **Desenvolvedor em formação focado em sistemas web, automações e produtos digitais reais.**
 
-Construo projetos práticos com front-end, back-end, automação, dashboards e ferramentas para pequenos negócios. Meu objetivo é transformar problemas operacionais em sistemas simples, rápidos e bem documentados.
+Construo projetos práticos com front-end, back-end, automação, dashboards e ferramentas para negócios. Meu objetivo é transformar problemas operacionais em sistemas simples, rápidos e bem documentados.
 
 ---
 
