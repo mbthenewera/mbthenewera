@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delivery Ops Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header>
+      <p>Delivery Ops</p>
+      <h1>Controle de entregas, atrasos e SLA em uma única tela.</h1>
+    </header>
+
+    <section class="kpis">
+      <article><span>Entregas ativas</span><strong>38</strong></article>
+      <article><span>No prazo</span><strong>31</strong></article>
+      <article><span>Em risco</span><strong>5</strong></article>
+      <article><span>Atrasadas</span><strong>2</strong></article>
+    </section>
+
+    <section class="layout">
+      <article class="card">
+        <h2>Entregadores</h2>
+        <div class="courier"><b>Rafael</b><span>4 entregas • zona sul</span></div>
+        <div class="courier"><b>Bianca</b><span>3 entregas • centro</span></div>
+        <div class="courier"><b>Lucas</b><span>5 entregas • orla</span></div>
+      </article>
+
+      <article class="card large">
+        <h2>Pedidos em acompanhamento</h2>
+        <table>
+          <tr><th>Pedido</th><th>Região</th><th>SLA</th><th>Status</th></tr>
+          <tr><td>#8841</td><td>Centro</td><td>12 min</td><td>No prazo</td></tr>
+          <tr><td>#8842</td><td>Orla</td><td>4 min</td><td>Em risco</td></tr>
+          <tr><td>#8843</td><td>Zona Sul</td><td>-3 min</td><td>Atrasado</td></tr>
+          <tr><td>#8844</td><td>Brotas</td><td>18 min</td><td>No prazo</td></tr>
+        </table>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
