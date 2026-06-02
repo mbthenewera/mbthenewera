@@ -28,13 +28,6 @@ HTML • CSS • JavaScript • Python • Node.js • C# • C++ • Git
 
 ---
 
-## Plano de expansão
-
-- [Roadmap de 200 projetos](./ROADMAP-200-PROJETOS.md)
-- [Playbook para GitHub competitivo](./GITHUB-HIRING-PLAYBOOK.md)
-
----
-
 ## Contato
 
 - GitHub: [@mbthenewera](https://github.com/mbthenewera)
